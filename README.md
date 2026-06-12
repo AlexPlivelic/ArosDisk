@@ -1,4 +1,3 @@
-# ArosDisk
 
 ArosDisk — Disk Space Analyzer & Duplicate File Finder
 
